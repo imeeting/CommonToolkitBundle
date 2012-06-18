@@ -8,3 +8,4 @@
 
 // network exception
 "default http request did failed toast" = "Network exception, please try again later";
+"Loading More" = "Loading More...";

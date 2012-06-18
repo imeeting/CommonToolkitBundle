@@ -8,3 +8,4 @@
 
 // network exception
 "default http request did failed toast" = "網絡異常，請稍後重識";
+"Loading More" = "加載更多...";
